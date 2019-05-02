@@ -2,7 +2,7 @@
 
 session_start();
 
-$user='htmlcss';
+$user='BG';
 $password_definit='12345';
 if(isset($_POST['submit'])){
 
